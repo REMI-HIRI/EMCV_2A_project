@@ -1,0 +1,5 @@
+These are the scripts suitable for OT data analysis. 
+
+Down-sample_Filter.py serves to preprocess the raw data files. 
+
+OT_GUI_fitting_Lumicks_csv_ds_plus_ss_functions_2WLCs.py allows manual analysis of the preprocessed data. 
